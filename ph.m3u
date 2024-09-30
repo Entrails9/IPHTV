@@ -4,11 +4,13 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
 #EXTINF:-1,TFC GUAM
 https://tfcguam-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1,GMA 7
-https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
+https://www.youtube.com/watch?v=XS22SFxjiD8
 #EXTINF:-1,GMA News TV
 https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 #EXTINF:-1,HBO
 https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
+#EXTINF:-1,MovieSphere (1080p)
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_lionsgate-moviesphere-roku-us/CDN/playlist.m3u8
 #EXTINF:-1,Fox Movies
 http://180.183.97.247:8000/play/a036
 #EXTINF:-1,Fox Family Movies 
