@@ -2,7 +2,9 @@
 #EXTINF:-1,TV5 HD
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
 #EXTINF:-1,GMA 7
-https://23phcgma7.vizco.workers.dev/stream/channel/master.m3u8
+https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
+#EXTINF:-1,GMA News TV
+https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 #EXTINF:-1,HBO
 https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
 #EXTINF:-1,Fox Movies
@@ -77,27 +79,3 @@ https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1,Animal Planet
 https://dplus.gammacdn.workers.dev/videos/99.m3u8
-#EXTINF:-1,Thrillers
-https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
-#EXTINF:-1,American Pickers
-https://d2fmvezvf9jfft.cloudfront.net/playlist.m3u8
-#EXTINF:-1,American Idol
-https://d2h3esqi6ab3e7.cloudfront.net/index.m3u8
-#EXTINF:-1,Action!!!
-https://bec-action-1-us.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1,Redbox Spotlight
-https://spotlight-redbox.amagi.tv/playlist.m3u8
-#EXTINF:-1,Redbox Comedy
-https://comedy-redbox.amagi.tv/playlist.m3u8
-#EXTINF:-1,Baywatch
-https://d1ku2wsea2oun8.cloudfront.net/playlist.m3u8
-#EXTINF:-1,Bein Sports Xtra
-https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-#EXTINF:-1,MovieSphere
-https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1,TFC GUAM
-https://tfcguam-abscbn-ono.amagi.tv/index.m3u8
-#EXTINF:-1,TV5 HD
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
-#EXTINF:-1,A2Z (via CIGNAL TV)
-https://tv-noyzkie.serv00.net/streams/A2Z.m3u8
